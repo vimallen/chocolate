@@ -1,0 +1,64 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+body    {
+        font-family: sans-serif;
+        background-color: hsl(60,100,97);
+        color: #2E1800;
+}
+
+
+
+
+.module-portfolio {
+        margin-bottom: 80px;
+        border-bottom: 2px solid #2E1800;
+        border-top: 4px solid #2E1800;
+        padding: 20px 0;
+}
+
+.site-title {
+            text-transform: uppercase;
+            font-weight: bold;
+}
+
+.site-header    {
+                padding: 20px 0;
+                border-top: 30px solid #2E1800;
+                border-bottom: 1px solid #2E1800;
+}
+
+.post-title {
+            font-size: 32px;
+}
+
+.site-footer {
+    border-top: 1px solid #40341c;
+}
+
+blockquote  {
+        letter-spacing: normal;
+}
+
+
+/*     =Media queries----------------------------------------- */
+
+@media only screen and (max-width: 480px) {
+        .site-nav {
+          float: left;
+        }
+      }
+      
+      /* WIDESCREEN */
+      
+      /* Increased body size for legibility */
+      
+      @media only screen and (min-width: 1400px) {
+        body {
+          font-size: 120%;
+        }
+      }
+
