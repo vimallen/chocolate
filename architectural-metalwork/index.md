@@ -7,7 +7,7 @@ exclude_from_nav: true
 permalink: /architectural-metalwork/
 ---
 
-Metalwork spreads here.
+A few spreads from an A4 landscape portfolio document featuring recent architectural metalwork projects undertaken by Andy Thornton Ltd.
 
 <figure><img src="../images/archmet-spreads-all_Page_2.jpg" alt="cover of Andy Thornton outdoor furniture 2015 brochure" /></figure>
 
