@@ -10,29 +10,27 @@ body {
 }
 .module-portfolio {
   margin-bottom: 80px;
-  border-bottom: 2px solid #2e1800;
-  border-top: 4px solid #2e1800;
+  border-bottom: 4px solid salmon; // border-top: 2px solid salmon;
   padding: 20px 0;
 }
 .site-title {
   text-transform: uppercase;
   font-weight: bold;
-  color: ivory;
+  color: gold;
 }
 .site-header {
   padding: 20px 0; // border-top: 30px solid #2e1800;
-  border-bottom: 3px solid ivory;
+  border-bottom: 3px solid gold;
 }
 .post-title {
   font-size: 32px;
 }
 .site-footer {
-  border-top: 1px solid #40341c;
+  border-top: 1px solid gold;
 }
 blockquote {
   letter-spacing: normal;
-}
-/* =Media queries----------------------------------------- */
+} /* =Media queries----------------------------------------- */
 @media only screen and (max-width: 480px) {
   .site-nav {
     float: left;
