@@ -3,60 +3,43 @@
 ---
 
 @import "minima";
-
-body    {
-        font-family: sans-serif;
-        background-color: #1F5C70;
-        color: #2E1800;
+body {
+  font-family: sans-serif;
+  background-color: #1f5c70;
+  color: ivory;
 }
-
-
 .module-portfolio {
-        margin-bottom: 80px;
-        border-bottom: 2px solid #2E1800;
-        border-top: 4px solid #2E1800;
-        padding: 20px 0;
+  margin-bottom: 80px;
+  border-bottom: 2px solid #2e1800;
+  border-top: 4px solid #2e1800;
+  padding: 20px 0;
 }
-
 .site-title {
-            text-transform: uppercase;
-            font-weight: bold;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: ivory;
 }
-
-.site-header    {
-                padding: 20px 0;
-                border-top: 30px solid #2E1800;
-                border-bottom: 1px solid #2E1800;
+.site-header {
+  padding: 20px 0; // border-top: 30px solid #2e1800;
+  border-bottom: 3px solid ivory;
 }
-
 .post-title {
-            font-size: 32px;
+  font-size: 32px;
 }
-
 .site-footer {
-    border-top: 1px solid #40341c;
+  border-top: 1px solid #40341c;
 }
-
-blockquote  {
-        letter-spacing: normal;
+blockquote {
+  letter-spacing: normal;
 }
-
-
-/*     =Media queries----------------------------------------- */
-
+/* =Media queries----------------------------------------- */
 @media only screen and (max-width: 480px) {
-        .site-nav {
-          float: left;
-        }
-      }
-      
-      /* WIDESCREEN */
-      
-      /* Increased body size for legibility */
-      
-      @media only screen and (min-width: 1400px) {
-        body {
-          font-size: 120%;
-        }
-      }
-
+  .site-nav {
+    float: left;
+  }
+} /* WIDESCREEN */ /* Increased body size for legibility */
+@media only screen and (min-width: 1400px) {
+  body {
+    font-size: 120%;
+  }
+}
