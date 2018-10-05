@@ -5,32 +5,34 @@
 @import "minima";
 body {
   font-family: sans-serif;
-  background-color: #205060;
-  color: ivory;
+  background-color: hsl(60, 30%, 90%); // color: #205060;
 }
 .module-portfolio {
   margin-bottom: 80px;
-  border-bottom: 4px solid salmon; // border-top: 2px solid salmon;
+  border-bottom: 2px solid hsl(195, 50%, 25%); // border-top: 2px solid salmon;
   padding: 20px 0;
+}
+.module-portfolio img {
+  margin-bottom: 10px;
 }
 .site-title {
   text-transform: uppercase;
   font-weight: bold;
-  color: gold;
+  color: hsl(60, 30%, 90%);
 }
 .site-header {
-  padding: 20px 0; // border-top: 30px solid #2e1800;
-  border-bottom: 3px solid gold;
+  padding: 20px 0; // border-top: 30px solid #2e1800; // border-bottom: 3px solid gold;
 }
 .post-title {
   font-size: 32px;
 }
 .site-footer {
-  border-top: 1px solid gold;
+  border-top: 1px solid #205060;
 }
 blockquote {
   letter-spacing: normal;
-} /* =Media queries----------------------------------------- */
+}
+/* =Media queries----------------------------------------- */
 @media only screen and (max-width: 480px) {
   .site-nav {
     float: left;
