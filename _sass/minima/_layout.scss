@@ -5,7 +5,7 @@
   // border-top: 5px solid $grey-color-dark;
   // border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
-  // background-color: #205060;
+  background-color: hsl(32, 40%, 18%);
 
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -38,7 +38,7 @@
   }
 
   .page-link {
-    color: hsl(60, 30%, 90%);
+    color: darkturquoise;
     line-height: $base-line-height;
 
     // Gaps between nav items, but not on the last one
@@ -154,8 +154,8 @@
 }
 
 .post-title {
-  @include relative-font-size(2.625);
-  letter-spacing: -1px;
+  // @include relative-font-size(2.625);
+
   line-height: 1;
 
   @include media-query($on-laptop) {
@@ -196,15 +196,5 @@
 @media only screen and (max-width: 480px) {
   .site-nav {
     float: left;
-  }
-}
-
-/* WIDESCREEN */
-
-/* Increased body size for legibility */
-
-@media only screen and (min-width: 1400px) {
-  body {
-    font-size: 120%;
   }
 }

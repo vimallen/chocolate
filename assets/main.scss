@@ -4,7 +4,7 @@
 
 @import "minima";
 body {
-  font-family: sans-serif;
+  font-family: "Source Sans Pro", sans-serif;
   background-color: hsl(44, 60%, 89%); // color: #205060;
 }
 .module-portfolio {
@@ -18,13 +18,13 @@ body {
 .site-title {
   text-transform: uppercase;
   font-weight: bold;
-  color: hsl(32, 40%, 18%);
+  color: darkturquoise;
 }
 .site-header {
   padding: 20px 0; // border-top: 30px solid #2e1800; // border-bottom: 3px solid gold;
 }
 .post-title {
-  font-size: 32px;
+  font-size: 28px;
 }
 .site-footer {
   border-top: 1px solid #205060;
@@ -36,10 +36,10 @@ blockquote {
 @media only screen and (max-width: 480px) {
   .site-nav {
     float: left;
-  }
-} /* WIDESCREEN */ /* Increased body size for legibility */
-@media only screen and (min-width: 1400px) {
-  body {
-    font-size: 120%;
+  } /* WIDESCREEN */ /* Increased body size for legibility */
+  @media only screen and (min-width: 1400px) /* 87.5em */ {
+    body {
+      font-size: 120%;
+    }
   }
 }
