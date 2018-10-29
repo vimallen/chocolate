@@ -1,8 +1,8 @@
 ---
-title: "New work: Architectural Metalwork brochure for Andy Thornton"
+title: "Architectural Metalwork brochure for Andy Thornton"
 author: davea
 layout: post
-meta: architectural metalwork 2017 brochure for Andy Thornton, sample spreads from 56 pages of canopies, bandstands, gazebos, covered walkways, entrance copies and verandas 
+meta: architectural metalwork 2017 brochure for Andy Thornton, sample spreads from 56 pages of canopies, bandstands, gazebos, covered walkways, entrance copies and verandas
 permalink: /metalwork/
 categories: design
 ---
