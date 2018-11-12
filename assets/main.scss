@@ -7,6 +7,16 @@ body {
   font-family: "Source Sans Pro", sans-serif;
   background-color: #f4f1eb; //#f0eada;
 }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: bold;
+}
+
 .module-portfolio {
   margin-bottom: 80px;
   border-bottom: 2px solid hsl(195, 50%, 25%); // border-top: 2px solid salmon;
@@ -17,8 +27,9 @@ body {
 }
 .site-title {
   text-transform: uppercase;
-  font-weight: bold;
+  font-weight: 900;
   color: #f4f1eb;
+  font-family: "Source Sans Pro", sans-serif;
 }
 .site-header {
   padding: 20px 0; // border-top: 30px solid #2e1800; // border-bottom: 3px solid gold;
