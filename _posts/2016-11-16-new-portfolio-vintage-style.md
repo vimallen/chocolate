@@ -1,5 +1,5 @@
 ---
-title: "Vintage Style catalogue for Andy Thornton"
+title: "Vintage Style catalogue"
 author: davea
 layout: post
 meta: Vintage Style catalogue for Andy Thornton, 160 pages of contract furniture, retail display products and decorative interior lighting

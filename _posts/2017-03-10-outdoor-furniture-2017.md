@@ -1,5 +1,5 @@
 ---
-title: "Outdoor furniture 2017 for Andy Thornton"
+title: "Outdoor furniture 2017"
 author: davea
 layout: post
 meta: Outdoor furniture 2017 brochure for Andy Thornton, sample spreads from 56 pages of outdoor furniture for restaurants, cafes, bars and hotels
