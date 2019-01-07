@@ -10,5 +10,5 @@ permalink: /carvings-and-mouldings/
 
 [Download PDF][1]
 
-<figure><img src="../images/ATFL18-fc.jpg" alt="contract furniture and lighting front cover"><figcaption>Carvings & Mouldings</figcaption></figure>
+<figure><img src="../images/cover-carvings-2018.jpg" alt="contract furniture and lighting front cover"><figcaption>Carvings & Mouldings</figcaption></figure>
 [1]: ../downloads/Carvings-2018.pdf
