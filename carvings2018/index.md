@@ -3,7 +3,7 @@ title: Carvings & Mouldings
 author: davea
 layout: page
 exclude_from_nav: true
-permalink: /carvings/
+permalink: /carvings-and-mouldings/
 ---
 
 36 page brochure.
